@@ -1,4 +1,4 @@
-# Hi, I'm Moustapha 👋
+# Hi, I'm Moustapha 
 
 CS & Data Science student at NYU. I build and ship real products, and I'm working toward quant developer / ML infrastructure roles.
 
