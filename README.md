@@ -1,4 +1,4 @@
-#Hi, My names Moustapha Gueye
+# Hi, My names Moustapha Gueye
 
 I'm a Mathematics and Computer Science Student at NYU working towards a career in Quant or ML/AI infrastructure.
 
